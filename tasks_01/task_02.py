@@ -1,1 +1,1 @@
-p
+print('task 02')
